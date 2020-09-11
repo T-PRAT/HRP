@@ -2,7 +2,6 @@
 title: Etape1
 date: 2020-09-11T02:20:37.000+02:00
 cover: 1.jpg
-draft: true
 
 ---
 # LA RHUNE - ELIZONDO
